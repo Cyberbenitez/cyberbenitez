@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/CyberBenitez
 [instagram]: https://www.instagram.com/cyberbenitez
-[linkedin]: https://linkedin.com/in/christian-benitez-91338a2a9
+[linkedin]: https://linkedin.com/in/christian-benitezIT
